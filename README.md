@@ -13,3 +13,5 @@
         <li>4xx — Ошибка клиента (400 Bad Request, 401 Unauthorized, 403 Forbidden, 404 Not Found, 409 Conflict)</li>
         <li>5xx — Ошибка сервера (500 Internal Server Error, 503 Service Unavailable)</li>
     </ul>
+
+    
